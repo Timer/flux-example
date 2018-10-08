@@ -1,0 +1,1 @@
+{"jobID":"7242a358-2d2f-e60f-2ac2-519d7ececbd1","spec":{"type":"policy","cause":{"Message":"","User":"Joe Haddad \u003cjhaddad@foundationsoft.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
